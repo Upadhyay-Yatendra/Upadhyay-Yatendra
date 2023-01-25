@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay-yatendra&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay-yatendra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upadhyay-yatendra" alt="upadhyay-yatendra" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upadhyay-yatendra" alt="upadhyay-yatendra" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/yatendrapandit6" target="blank"><img src="https://img.shields.io/twitter/follow/yatendrapandit6?logo=twitter&style=for-the-badge" alt="yatendrapandit6" /></a> </p>
 
@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning *Databases.*
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
+<!-- - 👨‍💻 All of my projects are available at [Working on it](Working on it) -->
 
 - 💬 Ask me about *Front end techs and frameworks.*
 
 - 📫 How to reach me *Yupadhyayyk@gmail.com*
 
-- ⚡ Fun fact *Born with a natural obsession.*
+- ⚡ Fun fact *: Born with a natural obsession.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
