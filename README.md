@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/yatendrapandit6" target="blank"><img src="https://img.shields.io/twitter/follow/yatendrapandit6?logo=twitter&style=for-the-badge" alt="yatendrapandit6" /></a> </p>
 
-- 🔭 I’m currently working on *Blog website.*
+- 🔭 I’m currently working on a Food web app.
 
 - 🌱 I’m currently learning *Databases.*
 
 <!-- - 👨‍💻 All of my projects are available at [Working on it](Working on it) -->
 
-- 💬 Ask me about *Front end techs and frameworks.*
+- 💬 Ask me about *Front end , backend techs and frameworks.*
 
 - 📫 How to reach me *Yupadhyayyk@gmail.com*
 
