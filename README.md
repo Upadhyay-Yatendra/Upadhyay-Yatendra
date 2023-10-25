@@ -4,7 +4,7 @@
 <!-- **Upadhyay-Yatendra/Upadhyay-Yatendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Yatendra upadhyay</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">MERN stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay-yatendra&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay-yatendra" /> </p>
 
@@ -12,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/yatendrapandit6" target="blank"><img src="https://img.shields.io/twitter/follow/yatendrapandit6?logo=twitter&style=for-the-badge" alt="yatendrapandit6" /></a> </p>
 
-- 🔭 I’m currently working on a Food web app.
+- 🔭 I’m currently looking forward to getting some industry work experience.
 
-- 🌱 I’m currently learning *Databases.*
+- 🌱 I’m currently learning Caching to reduce load on databases.
 
 <!-- - 👨‍💻 All of my projects are available at [Working on it](Working on it) -->
 
-- 💬 Ask me about *Front end , backend techs and frameworks.*
+- 💬 Ask me about *Front end , backend techs and frameworks,Industry techs on full Stack development *
 
 - 📫 How to reach me *Yupadhyayyk@gmail.com*
 
-- ⚡ Fun fact *: Born with a natural obsession.*
+- ⚡ My Mantra *:Give my 200%*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
