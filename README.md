@@ -4,7 +4,7 @@
 <!-- **Upadhyay-Yatendra/Upadhyay-Yatendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Yatendra upadhyay</h1>
-<h3 align="center">MERN stack web developer from India</h3>
+<h3 align="center">Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay-yatendra&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay-yatendra" /> </p>
 
