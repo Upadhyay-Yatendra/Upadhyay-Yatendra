@@ -4,7 +4,7 @@
 <!-- **Upadhyay-Yatendra/Upadhyay-Yatendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Yatendra upadhyay</h1>
-<h3 align="center">Full stack developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay-yatendra&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay-yatendra" /> </p>
 
@@ -12,9 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/yatendrapandit6" target="blank"><img src="https://img.shields.io/twitter/follow/yatendrapandit6?logo=twitter&style=for-the-badge" alt="yatendrapandit6" /></a> </p>
 
-- 🔭 I’m currently looking forward to getting some industry work experience.
+-  I'm open to roles in software engineering for backend and full stack development.
 
-- 🌱 I’m currently learning Caching to reduce load on databases.
+-  My core competencies are building backend systems in javascript and java.
+
+- I'm currently trying my hands on GEN-AI with langchain specifically working on a talk to PDFs project.
 
 <!-- - 👨‍💻 All of my projects are available at [Working on it](Working on it) -->
 
