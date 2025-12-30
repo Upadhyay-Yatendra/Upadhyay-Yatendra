@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/yatendrapandit6" target="blank"><img src="https://img.shields.io/twitter/follow/yatendrapandit6?logo=twitter&style=for-the-badge" alt="yatendrapandit6" /></a> </p>
 
--  I'm a software developer skilled in python and javascript development particularly application development using nodejs , django , fastapi.
+-  Software developer skilled in python and javascript development particularly application development using nodejs, django and fastapi.
 
-- I'm excited about future of tech and currently exploring AgenticAi.
+- Excited about future of tech and currently exploring AgenticAi.
 
 <!-- - 👨‍💻 All of my projects are available at [Working on it](Working on it) -->
 
